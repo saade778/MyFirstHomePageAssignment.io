@@ -1,0 +1,46 @@
+.bold{
+
+    font-weight: bold;
+}
+
+div.a {
+  position: absolute;
+  background-color: lightgrey;
+  width: 742px;
+  left:10%;
+  top:228px;
+  height:1000px; 
+  
+
+}
+
+div.b {
+    
+    background:white;
+    border: 2px solid #CCCCCC;
+    border-radius: 12px;
+    border-width: 3px;
+	
+	width:90%
+	
+}
+
+div.c{
+
+	position: absolute; 
+	top:54%; left: 58.8%;
+	width:470px; 
+	height:100%
+	
+ 
+}
+
+p.a{
+ font-weight: bold;
+ 
+}
+
+p.b{
+text-indent: 2em;
+
+}

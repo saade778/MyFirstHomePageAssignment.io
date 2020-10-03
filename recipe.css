@@ -1,0 +1,53 @@
+
+h1 {
+  color: #A4A400;
+  font-size: 22pt;
+}
+
+ul.a {
+  list-style-type: circle;
+  color:#404040 ;
+  text-indent: 4em;
+  font-size: 11pt;
+  
+}
+
+ul.b {
+  list-style-type: circle;
+  color:#404040 ;
+  font-size: 11pt;
+  
+}
+
+
+p.a {
+  font-style: normal;
+  color:#404040 ;
+  font-size: 11pt;
+
+}
+
+p.b {
+  font-style: italic;
+  color:#404040 ;
+  font-size: 11pt;
+  text-indent: 4em;
+  background-color: #FFFFA8 ;
+}
+
+br.b{
+	p.b {
+  font-style: italic;
+  color:#404040 ;
+  font-size: 11pt;
+  text-indent: 4em;
+  background-color: #FFFFA8 ;
+}
+}
+
+p.c {
+  font-style: oblique;
+  color:#404040 ;
+  font-size: 11pt;
+  
+}
